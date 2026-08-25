@@ -1,0 +1,1 @@
+import{ct as e,vn as t}from"./runtime-core.esm-bundler-jaTeRxlz.js";import{U as n}from"./private.use-form-pkth6UD1.js";function r(){let r=t(!n.value);return r.value||e(()=>{r.value=!0}),{isHydrated:r}}export{r as t};
